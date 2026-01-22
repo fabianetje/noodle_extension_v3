@@ -3,7 +3,7 @@ new working noodle extension for beat saber in january 2026
 
 How to run:
 
-1. Make sure anti virus is off otherwise the .dll wont get extracted.
+1. Make sure antivirus is off otherwise the .dll wont get extracted.
 
 2. download both files
 
